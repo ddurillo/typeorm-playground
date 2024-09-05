@@ -1,3 +1,3 @@
 # TypeORM playground
 
-Playground for [TypeORM](https://typeorm.io/)
+Playground for [TypeORM](https://typeorm.io/) with NodeJS
