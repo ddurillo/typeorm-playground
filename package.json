@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/es6-shim": "0.31.45",
     "@types/node": "22.5.4",
     "reflect-metadata": "0.2.2",
     "sqlite3": "5.1.7",
